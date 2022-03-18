@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gorjetas</string>
+    <string name="img_da_logo">img da logo</string>
+    <string name="calculadora_de_gorjetas">Calculadora de Gorjetas</string>
+    <string name="valor_conta">Digite o valor da conta</string>
+    <string name="porcentagem">0%</string>
+    <string name="gorjeta">Gorjeta</string>
+    <string name="valor_gorjeta">R$ 0.00</string>
+    <string name="total">Total</string>
+    <string name="valor_total">R$ 0.00</string>
+</resources>
